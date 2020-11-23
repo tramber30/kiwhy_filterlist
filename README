@@ -1,0 +1,9 @@
+Kiwhy filter list
+
+A simple custom filter list for ublock origins
+
+In the "Filter lists" tab of uBlock settings, check "Import" at the bottom and
+add this url:
+    https://raw.githubusercontent.com/tramber30/kiwhy_filterlist/master/kiwhy_filterlist.txt 
+then "Apply change"
+
